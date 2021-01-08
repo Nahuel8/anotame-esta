@@ -1,2 +1,2 @@
-# app-notas
-Primera aplicación para tomar notas
+# Aplicación para tomar notas
+Mi primera aplicación para tomar notas
